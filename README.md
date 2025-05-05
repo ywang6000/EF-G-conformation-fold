@@ -42,6 +42,10 @@ This project integrates structural prediction, phylogenetic analysis, and functi
 	→ example a3m files of con1 and con2 for WT
 - `WT_list1/2.txt`
 	→ example lists of a3m after structure clustering
+- `combine_All_MSA`
+	→ folder with .fasta files to demonstrate cell #17. 
+- `combine_`
+	→ example lists of a3m after structure clustering
 - `one .pse`
 	→ example pse file to identify con1 and con2 for WT
 - `two .treefile and one .state file`
