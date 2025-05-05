@@ -2,7 +2,7 @@
 
 This repository contains the computational workflows and analysis code supporting the paper titled:  
 *Evolutionary Insights into Elongation Factor G Using AlphaFold and Ancestral Analysis*.  
-**[Computers in Biology and Medicine]**, Accepted.
+**Comput Biol Med 2025 Vol. 191 Pages 110188; Accession Number: 40222265 DOI: 10.1016/j.compbiomed.2025.110188
 
 ## Overview
 
@@ -97,7 +97,7 @@ If you use this code or find it helpful, please cite:
 
 > Shawonur Rahaman,Jacob H. Steele,Yi Zeng,Shoujun Xu,Yuhong Wang (2025).  
 > *Evolutionary Insights into Elongation Factor G Using AlphaFold and Ancestral Analysis*.  
-> **Computers in Biology and Medicine**, Accepted.
+> Comput Biol Med 2025 Vol. 191 Pages 110188; Accession Number: 40222265 DOI: 10.1016/j.compbiomed.2025.110188
 
 ## Contact
 
